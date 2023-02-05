@@ -13,8 +13,8 @@ https://drive.google.com/drive/folders/1MZNS_NfGBJudF-b81VxLoltDivO70PD4?usp=sha
 Download an apk and point your camera to images on the google drive. By pressing "I" button you will get information about this "booth". 
 By pressing "R" you will restart the scene.
 
-Image target with the yellow frame - Electrical circuit with lamp, you can change it's color by pressing color blocks, or break it by cutting wires
+* Image target with the yellow frame - Electrical circuit with lamp, you can change it's color by pressing color blocks, or break it by cutting wires
 
-Image target with the orange frame - The Goldberg Machine. Press on the blue handle, and you will see how the water goes out of the crane, when car passes it
+* Image target with the orange frame - The Goldberg Machine. Press on the blue handle, and you will see how the water goes out of the crane, when car passes it
 
-Image target with the light blue frame - Chemistry booth. You can combine elements to get a new one
+* Image target with the light blue frame - Chemistry booth. You can combine elements to get a new one
