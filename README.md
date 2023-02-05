@@ -9,7 +9,7 @@ There are 3 target images to scan, sadly on APK only 2 possible to check
 ### Download
 https://drive.google.com/drive/folders/1MZNS_NfGBJudF-b81VxLoltDivO70PD4?usp=share_link
 
-###How to use
+### How to use
 Download an apk and point your camera to images on the google drive. By pressing "I" button you will get information about this "booth". 
 By pressing "R" you will restart the scene.
 
