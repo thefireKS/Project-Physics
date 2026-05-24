@@ -15,8 +15,6 @@ public class jija : MonoBehaviour {
 		return fValue;
 	}
 	public void Update (){
-		
-		Debug.Log(TimeCount.timer + " " + OofCount.qwerty);
 		if (OofCount.qwerty == true && TimeCount.timer > 2.4f) {
 			anim.Play ("Water");
 			if (i==1)
